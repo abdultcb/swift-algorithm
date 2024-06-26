@@ -52,7 +52,7 @@ extension Stack: CustomStringConvertible {
 
 
 
-// IMPLEMENTATION
+// TEST IMPLEMENTATION
 
 class StackImpl {
     func test() {
